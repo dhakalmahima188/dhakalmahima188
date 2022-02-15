@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m currently working on Web and Data.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me: mahimadhakal18.com.np
 - ⚡ Fun fact: Time goes faster at the top of the building than at the bottom.
 
 
