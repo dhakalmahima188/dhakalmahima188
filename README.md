@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on Web and Data.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on new ideas.
-- 📫 How to reach me: www.mahimadhakal18.com.np
+- 📫 How to reach me: mahimadhakal18.com.np
 - ⚡ Fun fact: Time goes faster at the top of the building than at the bottom.
 
 
@@ -12,7 +11,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalmahima188&layout=compact&theme=radical&count_private=true)](https://github.com/dhakalmahima188/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalmahima188&layout=compact&theme=radical&count_private=true)(https://github.com/dhakalmahima188/github-readme-stats)
 
 
 
