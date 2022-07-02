@@ -7,6 +7,9 @@
 
 ![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhakalmahima188&show_icons=true&theme=radical&count_private=true)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhakalmahima188&theme=monokai)
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalmahima188&layout=compact&theme=radical&count_private=true)
