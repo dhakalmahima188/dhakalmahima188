@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on Computer Vision
 - ⚡ Fun fact: Time goes faster at the top of the building than at the bottom. !!
 
-
+### :fire: My Stats :<br/>
+<img src="https://komarev.com/ghpvc/?username=dhakalmahima188&style=flat-square&color=blue" alt=""/><br/>
 ![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhakalmahima188&show_icons=true&theme=radical&count_private=true)
 
 
