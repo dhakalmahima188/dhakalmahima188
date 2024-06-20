@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on NodeJs
-- ⚡ Fun fact: Time goes faster at the top of the building than at the bottom. !!
+- 🔭 I’m currently working on NodeJs and ReactJs
+- ⚡ You know,time goes faster at the top of the building than at the bottom !!
 
 ### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=dhakalmahima188&style=flat-square&color=blue" alt=""/><br/>
