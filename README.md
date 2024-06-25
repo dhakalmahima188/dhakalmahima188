@@ -1,7 +1,7 @@
 
 ## Hey! I'm Mahima Dhakal.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I’m currently working on NodeJs and ReactJs
-[![Linkedin: Mahima Dhakal](https://img.shields.io/badge/-Mahima%Dhakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahima-dhakal18/)](https://www.linkedin.com/in/mahima-dhakal18/)
+[![Linkedin: Mahima Dhakal](https://img.shields.io/badge/-Mahima%20Dhakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahima-dhakal18/)](https://www.linkedin.com/in/mahima-dhakal18/)
 
 ### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=dhakalmahima188&style=flat-square&color=blue" alt=""/><br/>
