@@ -5,7 +5,7 @@ I’m currently working on NodeJs and ReactJs
 
 ### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=dhakalmahima188&style=flat-square&color=blue" alt=""/><br/>
-![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhakalmahima188&show_icons=true&theme=calm&count_private=true)(https://github.com/ashishshres/github-readme-stats)
+![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhakalmahima188&show_icons=true&theme=calm&count_private=true)(https://github.com/dhakalmahima188/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalmahima188&layout=compact&theme=calm&count_private=true)
 
