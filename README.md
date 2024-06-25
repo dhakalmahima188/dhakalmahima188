@@ -6,7 +6,6 @@ I’m currently working on NodeJs and ReactJs.
 [![Linkedin: Mahima Dhakal](https://img.shields.io/badge/-Mahima%20Dhakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahima-dhakal18/)](https://www.linkedin.com/in/mahima-dhakal18/)
 
 ![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhakalmahima188&show_icons=true&theme=calm&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalmahima188&layout=compact&theme=calm&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhakalmahima188&theme=calm)](https://git.io/streak-stats)
 
